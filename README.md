@@ -2,6 +2,7 @@
 
 Hey!
 MeetBox, previosuly named Easymeet is a open-source Video Communications and conferencing Website
+This Project uses JS,HTML and CSS
 
 --> Features
     Chat Box
